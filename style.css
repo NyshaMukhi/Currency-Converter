@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color:lightpink;
+}
+h1{
+    color: darkmagenta;
+    size: 50px;
+}
+#label{
+    size: 35px;
+    color: blue;
+}
+#input{
+    size: 35px;
+    background-color: rgb(179, 226, 228);
+    color: rgb(220, 20, 113);
+    border-width: 3px;
+    border-color: black;
+}
+#button{
+    size:40px;
+    background-color: rgba(100, 148, 237, 0.747);
+    border-color: darkblue;
+    border-width: 2px;
+}
